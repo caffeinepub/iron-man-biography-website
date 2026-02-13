@@ -1,0 +1,12 @@
+{
+  "frontend/src/index.css": "Custom Iron Man-themed design system with red, gold, and metallic OKLCH colors, custom utilities for gradients and glows, and scrollbar styling for both light and dark modes.",
+  "frontend/src/App.tsx": "Root application component that wraps the app with ThemeProvider and QueryClientProvider, rendering the HomePage component.",
+  "frontend/src/hooks/useQueries.ts": "React Query hooks for fetching biography sections and gallery images from the backend canister.",
+  "frontend/src/pages/HomePage.tsx": "Main page component that orchestrates the layout with Header, Hero, biography sections, gallery, and Footer components.",
+  "frontend/src/components/Header.tsx": "Fixed navigation header with smooth scroll links, mobile menu, theme toggle, and scroll-based styling effects.",
+  "frontend/src/components/Hero.tsx": "Full-screen hero section with animated background, Iron Man branding, and call-to-action button.",
+  "frontend/src/components/BiographySection.tsx": "Reusable component for displaying biography sections with alternating image-text layout and static images from assets.",
+  "frontend/src/components/Gallery.tsx": "Image gallery component with grid layout, hover effects, and modal dialog for viewing full-size images, using static assets.",
+  "frontend/src/components/ThemeToggle.tsx": "Theme switcher button component for toggling between light and dark modes.",
+  "frontend/src/components/Footer.tsx": "Footer component with branding, attribution to caffeine.ai, and disclaimer about Marvel properties."
+}
